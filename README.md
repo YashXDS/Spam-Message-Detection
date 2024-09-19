@@ -72,7 +72,6 @@ The trained model is evaluated using the following metrics:
 ### Model performance metrics:
 
 ```plaintext
-Copy code
 Accuracy: 98%
 Precision: 0.96
 Recall: 0.95
